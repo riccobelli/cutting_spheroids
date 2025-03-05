@@ -36,7 +36,7 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 ## References
 <a id="1">[1]</a>
-D. Riccobelli, "Elastocapillarity-driven surface growth in tumour spheroids", *under review*.
+D. Riccobelli, "Elastocapillarity-driven surface growth in tumour spheroids", *Interface Focus*, in press.
 
 <a id="2">[2]</a>
 L. Guillaume et al. "Characterization of the physical properties of tumor-derived spheroids reveals critical insights for pre-clinical studies." *Scientific reports* 9.1 (2019): 6597.
